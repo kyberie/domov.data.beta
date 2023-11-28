@@ -1,3 +1,29 @@
 {	
-  "json_version":1
+  "json_version":1,
+  "callcenters_insia":[
+        {
+            "country_abbr": "CZ",
+            "title": "Kontaktní centrum",
+            "subtitle": "INSIA a.s.",
+            "address": "Atrium Flora - vchod A\nVinohradská 2828/151\n130 00 Praha 3",
+            "phone": "245 003 111",
+            "email": "insia@insia.com",
+            "web_url": "https://www.insia.cz/",
+			"facebook": "https://www.facebook.com/insia.as",
+			"linkedin": "https://www.linkedin.com/company/insiac",
+			"youtube": "https://www.youtube.com/channel/UCxhrqC0f-VGHShKmx3edi7Q"
+        },
+		{
+            "country_abbr": "SK",
+            "title": "Kontaktné centrum",
+            "subtitle": "INSIA SK s.r.o.",
+            "address": "Laurinská 3\n811 01 Bratislava 1",
+            "phone": "+421 220 570 714",
+            "email": "info@insia.com",
+            "web_url": "https://www.insia.sk/",
+			"facebook": "https://www.facebook.com/insia.sk",
+			"linkedin": "https://www.linkedin.com/company/insia-sk",
+			"youtube": "https://www.youtube.com/channel/UCxhrqC0f-VGHShKmx3edi7Q"
+        }
+    ]
 }
